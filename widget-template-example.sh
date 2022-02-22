@@ -52,8 +52,8 @@ color
 title Projects
 color purple
 hyper $HOME/Git                           · Git
-echo -n '  ' && hyper $HOME/Git/project1    · mako-config
-echo -n '  ' && hyper $HOME/Git/project2    · mako-config
+echo -n '  ' && hyper $HOME/Git/project1    · project1
+echo -n '  ' && hyper $HOME/Git/project2    · project2
 color
 
 tput civis
